@@ -221,6 +221,51 @@ docker compose ps                    # service health
 
 ---
 
+## 🌍 Live Production Deployments
+
+Applications I have built, deployed and maintained on production servers under **bc-pl.com**.
+
+| # | Application | Live URL | What I Did | CI/CD |
+|---|---|---|---|---|
+| 1 | 🛠️ **CMMS** — Maintenance Management Web App | [cmms.bc-pl.com](https://cmms.bc-pl.com) | Delivered & deployed | ✅ GitHub Actions |
+| 2 | 📱 **IOCL Mobile App Backend** | [ioclmobileapp.bc-pl.com](https://ioclmobileapp.bc-pl.com) | Deployed (Docker) | ✅ GitHub Actions |
+| 3 | ✍️ **BFL Sign** — Document Signing Platform | [bflsign.bc-pl.com](https://bflsign.bc-pl.com) | Deployed | — |
+| 4 | 🏦 **Reconciliation Platform** | [reconciliation.bc-pl.com](https://reconciliation.bc-pl.com) | Deployed | — |
+| 5 | 🌐 **Varanga** | [varanga.bc-pl.com](https://varanga.bc-pl.com) | Deployed | — |
+| 6 | 📡 **IoT Master Dashboard** | [register.bc-pl.com](https://register.bc-pl.com) | Deployed | — |
+| 7 | 🧾 **Invoice Management** | [invoice.bc-pl.com](https://invoice.bc-pl.com) | Deployed | — |
+
+### 📲 Mobile App Delivery (APK)
+
+I generate and deliver production **Android APK builds** for:
+
+![HRMS](https://img.shields.io/badge/HRMS%20App-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IOCL](https://img.shields.io/badge/IOCL%20App-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![CMMS](https://img.shields.io/badge/CMMS%20App-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🤖 Telegram Bots
+
+Built Telegram bots for **account management**: automated account handling, notifications and user interaction directly in Telegram, backed by the same Dockerized backend infrastructure.
+
+```mermaid
+flowchart LR
+    Dev([👨‍💻 Code]) --> GH[GitHub]
+    GH --> CI[GitHub Actions]
+    CI --> SRV[🖥️ bc-pl.com Server<br/>Docker Compose]
+    SRV --> W1[cmms.bc-pl.com]
+    SRV --> W2[ioclmobileapp.bc-pl.com]
+    SRV --> W3[reconciliation · invoice · bflsign<br/>varanga · register]
+    W2 --> APK[📱 APKs: HRMS · IOCL · CMMS]
+    SRV --> TG[🤖 Telegram Bots]
+
+    style SRV fill:#0F2027,color:#fff,stroke:#00C6FF
+    style CI fill:#2088FF,color:#fff
+    style APK fill:#3DDC84,color:#000
+    style TG fill:#26A5E4,color:#fff
+```
+
+---
+
 ## 🧩 What I Build
 
 <table>
