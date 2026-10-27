@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=230&section=header&text=Jitesh%20Mohapatra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Engineer%20%C2%B7%20Backend%20%C2%B7%20AI%20Enthusiast&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=200&section=header&text=Jitesh%20Mohapatra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Jitesh Mohapatra" width="100%"/>
+
+### ☁️ Cloud & DevOps Engineer &nbsp;|&nbsp; 🐍 Backend &nbsp;|&nbsp; 🤖 AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=850&lines=Cloud+%26+DevOps+Engineer;Docker+Compose+%E2%86%92+CI%2FCD+%E2%86%92+Production;Deploying+scalable+backends+on+the+cloud;Strong+interest+in+AI+%7C+LLM+Agents+%7C+Computer+Vision;Shipping+reliably%2C+one+merge+at+a+time" alt="Typing SVG" />
 
@@ -322,6 +324,6 @@ Telegram bots and webhook-driven workflows connecting AI to real business proces
 
 *Open to Cloud / DevOps engineering roles with a strong AI focus.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2C5364,100:0F2027&height=100&section=footer" alt="footer" width="100%"/>
 
 </div>
