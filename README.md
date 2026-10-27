@@ -1,68 +1,138 @@
 <div align="center">
 
-# Jitesh Mohapatra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=230&section=header&text=Jitesh%20Mohapatra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Developer%20%C2%B7%20Backend%20Engineer%20%C2%B7%20DevOps&descSize=18&descAlignY=58" width="100%" />
 
-### AI Developer · Python Backend Engineer · DevOps & Scalable Deployment
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+products;Python+%2F+Django+Backend+Engineer;Docker+Compose+%E2%86%92+CI%2FCD+%E2%86%92+Production;Computer+Vision+%7C+NLP+%7C+LLM+Agents;Shipping+reliably%2C+one+merge+at+a+time" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-powered+products;Python+%2F+Django+Backend+Engineer;Dockerized+Deployments+with+CI%2FCD;Computer+Vision+%7C+NLP+%7C+LLM+Agents;Shipping+to+production+reliably" alt="Typing SVG" />
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00c6ff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=2C5364&logo=github)
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I build intelligent applications and take them all the way to production: from model and API development to containerized, automated, repeatable deployments.
+```python
+class Jitesh:
+    role     = "AI Developer @ Bariflo Labs"
+    location = "Bhubaneswar, Odisha 🇮🇳"
+    focus    = ["Computer Vision", "NLP / LLM Agents", "Python Backend", "DevOps"]
+    deploys  = "Docker Compose + GitHub Actions CI/CD"
+    learning = ["LangGraph", "Multi-Agent Systems", "Multi-Tenant SaaS"]
 
-- 🤖 **AI:** Computer Vision, NLP, OCR / document intelligence, LLM agents, RAG
-- 🐍 **Backend:** Django / DRF, Flask, REST APIs, PostgreSQL, Redis, Celery
-- 🚢 **DevOps:** Docker Compose deployments on Linux servers, GitHub Actions CI/CD, environment-based config
-- 🌱 **Exploring:** LangGraph, multi-agent systems, multi-tenant SaaS architecture
+    def mission(self):
+        return "Turn AI prototypes into reliable, deployed products."
+```
+
+- 🤖 **AI** — Computer Vision, NLP, OCR / document intelligence, LLM agents, RAG
+- 🐍 **Backend** — Django / DRF, Flask, REST APIs, PostgreSQL, Redis, Celery
+- 🚢 **DevOps** — Dockerized stacks on Linux servers, GitHub Actions pipelines, env-based config
+- 📡 **IoT** — MQTT device pipelines, monitoring dashboards
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages & Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,redis,js,react,vite&perline=9" />
+
+**DevOps & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,azure,aws,bash,nginx&perline=9" />
+
+**AI / ML & Data**<br/>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,pandas,numpy,matplotlib&perline=6" />
+
+</div>
+
+<details>
+<summary><b>➕ More tools (click to expand)</b></summary>
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![Azure Custom Vision](https://img.shields.io/badge/Azure%20Custom%20Vision-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+</details>
 
 ---
 
 ## 🚢 DevOps & Scalable Deployment
 
-I deploy production services with **Docker Compose** and automate delivery with **GitHub Actions**, so every merge to `main` can reach the server without manual steps.
+I deploy production services with **Docker Compose** and automate delivery with **GitHub Actions**, so a merge to `main` reaches the server without manual steps.
 
-### CI/CD Pipeline
+### 🔄 CI/CD Pipeline
 
 ```mermaid
 flowchart LR
-    A[👨‍💻 Push / PR] --> B[GitHub Actions]
+    A([👨‍💻 Push / PR]) --> B[GitHub Actions]
     B --> C{Lint & Tests}
-    C -- pass --> D[Build Docker Image]
-    C -- fail --> X[❌ Stop & Notify]
+    C -- pass --> D[🐳 Build Image]
+    C -- fail --> X([❌ Stop & Notify])
     D --> E[Push to Registry]
-    E --> F[SSH into Server]
-    F --> G[docker compose pull & up -d]
-    G --> H[Health Check]
-    H -- ok --> I[✅ Live]
-    H -- fail --> R[↩️ Rollback]
+    E --> F[🔐 SSH to Server]
+    F --> G[docker compose up -d]
+    G --> H{Health Check}
+    H -- ok --> I([✅ Live])
+    H -- fail --> R([↩️ Rollback])
+
+    style A fill:#2C5364,color:#fff,stroke:#00C6FF
+    style I fill:#1b8a5a,color:#fff,stroke:#1b8a5a
+    style X fill:#b3261e,color:#fff,stroke:#b3261e
+    style R fill:#b36b00,color:#fff,stroke:#b36b00
 ```
 
-### What I Practice
+### 🏗️ Production Architecture
+
+```mermaid
+flowchart TB
+    U([🌐 Client / Mobile App]) --> API
+    subgraph Server["🖥️ Linux Server · Docker Compose"]
+        API[Django / DRF API<br/>gunicorn]
+        W[Celery Worker]
+        DB[(PostgreSQL)]
+        R[(Redis)]
+        API --- DB
+        API --- R
+        W --- R
+        W --- DB
+    end
+    GH[GitHub Actions] -. deploys .-> Server
+
+    style Server fill:#0F2027,color:#fff,stroke:#00C6FF
+    style API fill:#092E20,color:#fff
+    style W fill:#37814A,color:#fff
+    style DB fill:#336791,color:#fff
+    style R fill:#DC382D,color:#fff
+```
+
+### ✅ What I Practice
 
 | Area | Approach |
 |---|---|
-| **Containerization** | Multi-service stacks (API, worker, DB, cache, broker) defined in Docker Compose |
-| **CI/CD** | GitHub Actions: test → build → deploy on push to `main` |
-| **Config & Secrets** | `.env` files and GitHub Secrets, never committed to the repo |
-| **Persistence** | Named volumes for PostgreSQL and media/object storage |
-| **Async Workloads** | Celery workers + Redis for background and scheduled jobs |
-| **Reliability** | Restart policies, health checks, log inspection via `docker logs` |
-| **Scalability** | Stateless services, worker scaling with `docker compose up --scale` |
-| **Releases** | Zero-manual-step deploys, image tagging for rollback |
+| 🐳 **Containerization** | Multi-service stacks (API, worker, DB, cache, broker) in Docker Compose |
+| ⚙️ **CI/CD** | GitHub Actions: test → build → deploy on push to `main` |
+| 🔐 **Config & Secrets** | `.env` files + GitHub Secrets, never committed |
+| 💾 **Persistence** | Named volumes for PostgreSQL and media / object storage |
+| ⏱️ **Async Workloads** | Celery workers + Redis for background and scheduled jobs |
+| 🩺 **Reliability** | Restart policies, health checks, log inspection |
+| 📈 **Scalability** | Stateless services, worker scaling via `docker compose up --scale` |
+| 🏷️ **Releases** | Image tagging for quick rollback |
 
 <details>
-<summary><b>📦 Example: Docker Compose stack (click to expand)</b></summary>
+<summary><b>📦 Example: Docker Compose stack</b></summary>
 
 ```yaml
 services:
@@ -98,7 +168,7 @@ volumes:
 </details>
 
 <details>
-<summary><b>⚙️ Example: GitHub Actions deploy workflow (click to expand)</b></summary>
+<summary><b>⚙️ Example: GitHub Actions deploy workflow</b></summary>
 
 ```yaml
 name: CI/CD
@@ -136,89 +206,60 @@ jobs:
 
 </details>
 
----
+<details>
+<summary><b>🛠️ Handy Docker Compose commands I use</b></summary>
 
-## 🛠️ Tech Stack
+```bash
+docker compose up -d --build         # build & start
+docker compose logs -f api           # follow API logs
+docker compose up -d --scale worker=3  # scale workers
+docker compose exec api python manage.py migrate
+docker compose ps                    # service health
+```
 
-**Languages & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-**Data & Messaging**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-**AI / ML**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-![Azure AI](https://img.shields.io/badge/Azure%20AI%20%7C%20Custom%20Vision-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Frontend & Integrations**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+</details>
 
 ---
 
 ## 🧩 What I Build
 
-- 📄 **Document intelligence:** OCR and PDF parsing pipelines, receipt management, reconciliation engines
-- 👁️ **Computer vision:** object detection (YOLO), Azure Custom Vision models
-- 🤖 **AI agents & automation:** LLM workflows, RAG, Telegram bots, webhook-driven automation
-- 🌐 **Production backends:** REST APIs served from Dockerized stacks with automated deploys
-- 📡 **IoT & monitoring:** MQTT-based device data pipelines and dashboards
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Document Intelligence
+OCR and PDF parsing pipelines, receipt management and multi-bank reconciliation engines.
+
+### 👁️ Computer Vision
+Object detection with YOLO and Azure Custom Vision models.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents & Automation
+LLM workflows, RAG, Telegram bots and webhook-driven automation.
+
+### 🌐 Production Backends
+REST APIs served from Dockerized stacks with automated deploys and IoT (MQTT) data pipelines.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ How I Ship
-
-```mermaid
-flowchart TB
-    subgraph Dev[Development]
-        A[Feature Branch] --> B[Pull Request]
-    end
-    subgraph CI[GitHub Actions]
-        B --> C[Lint · Test · Build]
-    end
-    subgraph Prod[Server · Docker Compose]
-        C --> D[API]
-        C --> E[Celery Worker]
-        D --- F[(PostgreSQL)]
-        D --- G[(Redis)]
-        E --- G
-    end
-```
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -230,7 +271,10 @@ flowchart TB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-*Open to AI engineering, backend, and DevOps-focused roles and collaborations.*
+*Open to AI engineering, backend and DevOps-focused roles and collaborations.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%" />
 
 </div>
