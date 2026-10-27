@@ -37,6 +37,22 @@ class Jitesh:
 
 ---
 
+## 🏢 Currently Working At
+
+<div align="center">
+
+<img src="assets/bariflo-cybernetics-logo.png" alt="Bariflo Cybernetics" width="200"/>
+
+**Bariflo Cybernetics** · Bariflo Labs
+<br/>
+*AI Developer · Cloud & DevOps · Bhubaneswar, Odisha*
+
+</div>
+
+I build and deploy the company's web platforms, mobile app backends, IoT dashboards and AI-driven automation, from code to production.
+
+---
+
 ## ☁️ Cloud, DevOps & Scalable Deployment
 
 I deploy production services with **Docker Compose** and automate delivery with **GitHub Actions**, so a merge to `main` reaches the server without manual steps.
