@@ -6,8 +6,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00c6ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=2C5364&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=JiteshAI-web&label=Profile%20Views&color=00c6ff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/JiteshAI-web?style=for-the-badge&color=2C5364&logo=github)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge)
 
 </div>
